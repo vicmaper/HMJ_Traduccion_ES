@@ -1,0 +1,14 @@
+HACHIMYOUJIN EN ESPAÑOL - EMPIEZA AQUI
+=======================================
+1) Descomprime esta carpeta fuera de la carpeta del juego (ejemplo: C:\HMJ_Kit).
+2) Abre HMJ_Kit.exe  (si no lo tienes: instala Python 3 y usa INSTALAR_REQUISITOS.bat
+   y luego INICIAR_KIT.bat).
+3) Elige la carpeta del juego (donde estan malie.exe y data1.dat).
+4) Pulsa en orden:  1. Sacar el CSV  ->  3. Generar e instalar  ->  4. Crear malie_es.exe
+5) Juega con malie_es.exe.
+
+Para traducir o corregir, lee GUIA_PARA_FANS.txt (seccion 4).
+Solo funciona con la edicion 2017 (malie.exe 1.1.0.0). El kit lo comprueba solo.
+El kit no trae archivos ni texto del juego: todo sale de tu copia.
+
+Dudas: Discord https://discord.gg/XJmNBWcP9

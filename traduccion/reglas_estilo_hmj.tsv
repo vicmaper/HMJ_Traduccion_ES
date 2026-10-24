@@ -1,0 +1,15 @@
+patron	problema	nivel	mayusculas
+-(sama|san|kun|chan|dono|tan)\b	honorifico	AVISO	
+\b(vosotros|vosotras|vuestro|vuestra|vuestros|vuestras|habéis|sois|tenéis|podéis|queréis|sabéis|estáis|vais|hacéis|decís|venid)\b	forma de España	AVISO	
+\b(gilipollas|chaval|chavala|ordenador|mola|molar|hostia|coger|cogí|cogió|cogido|cojo)\b	palabra de España/regional	AVISO	
+\b(pinche|chingar|chingad\w*|chinga|verga|culero|pendej\w*|cabr[oó]n\w*|joder|jodid\w*|mierda|carajo|pedo|güey|wey|madrazo\w*|puta\w*|puto)\b	grosería (revisar si el japonés lo amerita)	AVISO	
+\bEikou\b	nombre: Harumitsu	AVISO	si
+\bSuzuko\b	nombre: Rinko	AVISO	si
+\bKasumi\b	nombre: Kurana	AVISO	si
+\b(Jinno|Kamino)\b	nombre: Shinno	AVISO	si
+\b(Ritsu|Yukie)\b	nombre raro, revisar	AVISO	si
+\b(Shiro|Kishiro)\b	revisar nombre	AVISO	si
+[ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａ-ｚ０-９]	ancho completo	AVISO	
+っ	っ suelta	AVISO	
+\bMananose\b	nombre: Manase	AVISO	si
+\b(neta|órale|ándale|ándele|chido|chingón|chafa|nel|quiubo|qué onda|chamac[oa]s?|mens[oa]s?|nomás|tantito|relajo|madrazos?|madrear|híjole|ahorita|ni modo|platic\w*|platiqu\w*|plática|pos|luego luego|desmadre|chamarra|broncas|échale ganas|échenle ganas|gacho|buena onda|sacar de onda|simón|regadera|pelón|avent(ó|é|aste|ando|ar|aba|aron)|recarg(ado|ada|ó|ándose)|chuec[oa]s?|apenad[oa]s?|chaparr\w+|güer[oa]|se me hace|se me hizo|¿a poco)\b	mexicanismo (español neutro)	AVISO	
