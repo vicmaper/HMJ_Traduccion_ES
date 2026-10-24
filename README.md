@@ -1,5 +1,7 @@
 # Soushuu Senshinkan Gakuen: Hachimyoujin — traducción al español
 
+> **Edición: la que viene en el paquete _Dies irae & World Masada Premium_** (malie.exe 1.1.0.0, 2017).
+
 Kit para jugar **Soushuu Senshinkan Gakuen: Hachimyoujin** (light, 2017, motor MALIE) en español latinoamericano neutro,
 o para hacer y corregir tu propia traducción en un CSV.
 
@@ -18,6 +20,7 @@ o para hacer y corregir tu propia traducción en un CSV.
 | | |
 |---|---|
 | Juego | Soushuu Senshinkan Gakuen: Hachimyoujin, light, 2017 (PC, disco) |
+| Paquete | Incluido en **Dies irae & World Masada Premium** |
 | `malie.exe` | v1.1.0.0 (2017-09-07), md5 `e45c0a09fb19f64d0ca5fc98bd4b5e47` |
 | `exec.dat` (en `data1.dat`) | md5 `bd677ce6ee9cb688838fce05166ad69d` |
 | Clave de los `.dat` | `Soushuu Senshinkan Gakuen Hachimyoujin` (align 0x400) |
@@ -25,7 +28,7 @@ o para hacer y corregir tu propia traducción en un CSV.
 Sin parches oficiales. Si tu copia es otra, el kit se detiene sin cambiar nada: pide ayuda en el Discord.
 
 ## Uso rápido
-1. Descarga `HMJ_Traduccion_ES.zip` de **Releases** y descomprímelo fuera de la carpeta del juego.
+1. Descarga `HMJ_Traduccion_ES.zip` de [Releases](https://github.com/vicmaper/HMJ_Traduccion_ES/releases/latest) y descomprímelo fuera de la carpeta del juego.
 2. Abre `HMJ_Kit.exe`, elige la carpeta del juego y pulsa **1 → 3 → 4**.
 3. Juega con `malie_es.exe`.
 
