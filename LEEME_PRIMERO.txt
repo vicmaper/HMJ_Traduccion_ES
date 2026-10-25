@@ -11,4 +11,4 @@ Para traducir o corregir, lee GUIA_PARA_FANS.txt (seccion 4).
 Solo funciona con la edicion 2017 (malie.exe 1.1.0.0). El kit lo comprueba solo.
 El kit no trae archivos ni texto del juego: todo sale de tu copia.
 
-Dudas: Discord https://discord.gg/XJmNBWcP9
+Dudas: Discord https://discord.gg/k3Zfp85jMr

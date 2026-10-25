@@ -5,7 +5,7 @@
 Kit para jugar **Soushuu Senshinkan Gakuen: Hachimyoujin** (light, 2017, motor MALIE) en español latinoamericano neutro,
 o para hacer y corregir tu propia traducción en un CSV.
 
-**Dudas y reportes:** Discord <https://discord.gg/XJmNBWcP9>
+**Dudas y reportes:** Discord <https://discord.gg/k3Zfp85jMr>
 
 ## Qué hace
 - Saca el guion de **tu** copia del juego a un CSV (`id, voice, japanese, spanish, status`) que se edita en Excel o LibreOffice.

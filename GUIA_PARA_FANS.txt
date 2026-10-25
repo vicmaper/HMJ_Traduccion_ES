@@ -1,7 +1,7 @@
 ==========================================================================================
   SOUSHUU SENSHINKAN GAKUEN: HACHIMYOUJIN  -  KIT DE TRADUCCION AL ESPAÑOL  (version 1.0)
 ==========================================================================================
-Dudas, errores y sugerencias: Discord  https://discord.gg/XJmNBWcP9
+Dudas, errores y sugerencias: Discord  https://discord.gg/k3Zfp85jMr
 
 Este kit sirve para:
   - poner el juego en español con la traduccion del grupo, o
@@ -176,4 +176,4 @@ Para sacar el md5 tu mismo (CMD):   certutil -hashfile "C:\ruta\del\juego\malie.
                               antivirus desconfian de esos .exe. Puedes usar la opcion B (Python).
   Volver a empezar            Borra la carpeta "trabajo" (pierdes tu CSV: respaldalo antes).
 
-Discord: https://discord.gg/XJmNBWcP9
+Discord: https://discord.gg/k3Zfp85jMr

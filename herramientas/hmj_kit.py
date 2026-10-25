@@ -13,7 +13,7 @@
 
 El CSV puede llamarse como quieras; necesita columnas id y spanish (las demas son opcionales).
 Acepta coma, punto y coma (Excel en espanol) o tabulador, en UTF-8 o ANSI.
-Dudas: Discord https://discord.gg/XJmNBWcP9
+Dudas: Discord https://discord.gg/k3Zfp85jMr
 """
 import sys, os, re, io, csv, json, shutil, hashlib, datetime, tempfile
 try: sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -31,7 +31,7 @@ JUEGO_NOMBRE = 'Soushuu Senshinkan Gakuen: Hachimyoujin (light, 2017)'
 CLAVE = 'Soushuu Senshinkan Gakuen Hachimyoujin'
 MD5_EXEC = 'bd677ce6ee9cb688838fce05166ad69d'      # data/system/exec.dat dentro de data1.dat
 MD5_EXE = 'e45c0a09fb19f64d0ca5fc98bd4b5e47'       # malie.exe v1.1.0.0 (2017-09-07)
-DISCORD = 'https://discord.gg/XJmNBWcP9'
+DISCORD = 'https://discord.gg/k3Zfp85jMr'
 CAMPOS = ['id', 'voice', 'japanese', 'spanish', 'status']
 VIDEOS = ['akr', 'ats', 'aym', 'hrm', 'mzk', 'rnk', 'ysy']
 PANTALLAS = ['title', 'extra', 'config', 'award']
